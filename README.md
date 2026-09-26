@@ -80,13 +80,8 @@ The complete 4-page executive diagnostic report—reconciling financial performa
 
 ---
 
-## 📥 Repository Structure & Exploration
-```text
-├── Case_Study.pdf                     # Complete 4-page Business Analysis Case Study
-├── README.md                          # Executive project summary and findings
-└── [Dashboard files / Assets]         # Visual assets and Power BI models
-
----
-
+## 📥 How to Access
+1. Clone this repository:
+```bash
    git clone https://github.com/behnam-salimian/Adidas-Sales-Performance-Analytics.git
    
